@@ -16,8 +16,8 @@ alert(number1 - number2);
 alert(number1 * number2);
 alert(number1 / number2);
 
-let c = 2;
-let result = c**5;
+let y = 2;
+let result = y**5;
 alert(`2 в 5-й степени равняется ${result}`);
 
 let d = 9;
