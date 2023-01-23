@@ -51,4 +51,4 @@ alert(user[info]);
 
 let userName = prompt("Как твое имя?");
 userName = "Марина";
-alert("Привет Марина!");
+alert(`Привет ${userName} !`);
